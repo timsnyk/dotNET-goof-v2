@@ -27,7 +27,7 @@
     <PackageReference Include="Microsoft.Owin" Version="3.0.0" />
     <PackageReference Include="System.Text.Encodings.Web" Version="4.5.1" />
     <PackageReference Include="TinyMCE" Version="4.8.2" />
-    <PackageReference Include="UmbracoForms" Version="8.1.1" />
+    <PackageReference Include="UmbracoForms" Version="8.13.16" />
     <PackageReference Include="Wire" Version="1.0.0" />
   </ItemGroup>
 </Project>
